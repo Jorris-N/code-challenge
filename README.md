@@ -1,5 +1,5 @@
 Background
-In this challenge, you'll be working on preparing data received from a front-end application for database insertion. The data comes in a complex structure with various fields, including nested objects, and not all of these are suitable for direct database storage. Your task is to sanitize and transform this data according to the database's expected schema while also ensuring certain additional keys are retained as specified.
+Working on preparing data received from a front-end application for database insertion. The data comes in a complex structure with various fields, including nested objects, and not all of these are suitable for direct database storage. Your task is to sanitize and transform this data according to the database's expected schema while also ensuring certain additional keys are retained as specified.
 
 Challenge Description
 You are provided with three inputs:
